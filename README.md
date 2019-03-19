@@ -1,6 +1,6 @@
 # hello-world
 Start of work on github
 
-Greatings earthlings!
+Greetings earthlings!
 We come in peace.
 
